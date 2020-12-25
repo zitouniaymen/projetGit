@@ -1,1 +1,1 @@
-# projetGit pour tester la fomtion ed git
+# projetGit pour tester la fomtion ed git repository
